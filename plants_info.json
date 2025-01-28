@@ -1,0 +1,152 @@
+{
+    "aloevera": {
+        "name": "Aloevera",
+        "info": "Informaci\u00f3n sobre Aloevera.",
+        "benefits": "Beneficios de Aloevera."
+    },
+    "banana": {
+        "name": "Banana",
+        "info": "Informaci\u00f3n sobre Banana.",
+        "benefits": "Beneficios de Banana."
+    },
+    "bilimbi": {
+        "name": "Bilimbi",
+        "info": "Informaci\u00f3n sobre Bilimbi.",
+        "benefits": "Beneficios de Bilimbi."
+    },
+    "cantaloupe": {
+        "name": "Cantaloupe",
+        "info": "Informaci\u00f3n sobre Cantaloupe.",
+        "benefits": "Beneficios de Cantaloupe."
+    },
+    "cassava": {
+        "name": "Cassava",
+        "info": "Informaci\u00f3n sobre Cassava.",
+        "benefits": "Beneficios de Cassava."
+    },
+    "coconut": {
+        "name": "Coconut",
+        "info": "Informaci\u00f3n sobre Coconut.",
+        "benefits": "Beneficios de Coconut."
+    },
+    "corn": {
+        "name": "Corn",
+        "info": "Informaci\u00f3n sobre Corn.",
+        "benefits": "Beneficios de Corn."
+    },
+    "cucumber": {
+        "name": "Cucumber",
+        "info": "Informaci\u00f3n sobre Cucumber.",
+        "benefits": "Beneficios de Cucumber."
+    },
+    "curcuma": {
+        "name": "Curcuma",
+        "info": "Informaci\u00f3n sobre Curcuma.",
+        "benefits": "Beneficios de Curcuma."
+    },
+    "eggplant": {
+        "name": "Eggplant",
+        "info": "Informaci\u00f3n sobre Eggplant.",
+        "benefits": "Beneficios de Eggplant."
+    },
+    "galangal": {
+        "name": "Galangal",
+        "info": "Informaci\u00f3n sobre Galangal.",
+        "benefits": "Beneficios de Galangal."
+    },
+    "ginger": {
+        "name": "Ginger",
+        "info": "Informaci\u00f3n sobre Ginger.",
+        "benefits": "Beneficios de Ginger."
+    },
+    "guava": {
+        "name": "Guava",
+        "info": "Informaci\u00f3n sobre Guava.",
+        "benefits": "Beneficios de Guava."
+    },
+    "kale": {
+        "name": "Kale",
+        "info": "Informaci\u00f3n sobre Kale.",
+        "benefits": "Beneficios de Kale."
+    },
+    "longbeans": {
+        "name": "Longbeans",
+        "info": "Informaci\u00f3n sobre Longbeans.",
+        "benefits": "Beneficios de Longbeans."
+    },
+    "mango": {
+        "name": "Mango",
+        "info": "Informaci\u00f3n sobre Mango.",
+        "benefits": "Beneficios de Mango."
+    },
+    "melon": {
+        "name": "Melon",
+        "info": "Informaci\u00f3n sobre Melon.",
+        "benefits": "Beneficios de Melon."
+    },
+    "orange": {
+        "name": "Orange",
+        "info": "Informaci\u00f3n sobre Orange.",
+        "benefits": "Beneficios de Orange."
+    },
+    "paddy": {
+        "name": "Paddy",
+        "info": "Informaci\u00f3n sobre Paddy.",
+        "benefits": "Beneficios de Paddy."
+    },
+    "papaya": {
+        "name": "Papaya",
+        "info": "Informaci\u00f3n sobre Papaya.",
+        "benefits": "Beneficios de Papaya."
+    },
+    "peper chili": {
+        "name": "Peper Chili",
+        "info": "Informaci\u00f3n sobre Peper Chili.",
+        "benefits": "Beneficios de Peper Chili."
+    },
+    "pineapple": {
+        "name": "Pineapple",
+        "info": "Informaci\u00f3n sobre Pineapple.",
+        "benefits": "Beneficios de Pineapple."
+    },
+    "pomelo": {
+        "name": "Pomelo",
+        "info": "Informaci\u00f3n sobre Pomelo.",
+        "benefits": "Beneficios de Pomelo."
+    },
+    "shallot": {
+        "name": "Shallot",
+        "info": "Informaci\u00f3n sobre Shallot.",
+        "benefits": "Beneficios de Shallot."
+    },
+    "soybeans": {
+        "name": "Soybeans",
+        "info": "Informaci\u00f3n sobre Soybeans.",
+        "benefits": "Beneficios de Soybeans."
+    },
+    "spinach": {
+        "name": "Spinach",
+        "info": "Informaci\u00f3n sobre Spinach.",
+        "benefits": "Beneficios de Spinach."
+    },
+    "sweet potatoes": {
+        "name": "Sweet Potatoes",
+        "info": "Informaci\u00f3n sobre Sweet Potatoes.",
+        "benefits": "Beneficios de Sweet Potatoes."
+    },
+    "tobacco": {
+        "name": "Tobacco",
+        "info": "Informaci\u00f3n sobre Tobacco.",
+        "benefits": "Beneficios de Tobacco."
+    },
+    "waterapple": {
+        "name": "Waterapple",
+        "info": "Informaci\u00f3n sobre Waterapple.",
+        "benefits": "Beneficios de Waterapple."
+    },
+    "watermelon": {
+        "name": "Watermelon",
+        "info": "Informaci\u00f3n sobre Watermelon.",
+        "benefits": "Beneficios de Watermelon."
+    }
+}
