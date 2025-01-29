@@ -16,7 +16,7 @@ def generate_model_summary(model_path, summary_file):
 
 # Ruta del modelo y archivo de resumen
 model_path = 'model/model.h5'
-summary_file = 'model_summary.txt'
+summary_file = 'model/model_summary.txt'
 
 # Generar el resumen del modelo
 generate_model_summary(model_path, summary_file)
