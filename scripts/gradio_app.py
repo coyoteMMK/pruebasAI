@@ -6,7 +6,7 @@ import json
 import io
 
 # Cargar el modelo
-model = load_model('model/model.h5')
+model = load_model('model.h5')
 
 # Cargar datos de las plantas
 with open('plants_info.json', 'r') as f:
@@ -41,4 +41,4 @@ interface = gr.Interface(
 
 # Iniciar la interfaz
 if __name__ == "__main__":
-    interface.launch(share=True)
+    interface.launch()
